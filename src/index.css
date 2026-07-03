@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Metrophobic&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-background: #f8f7f4;
+  --color-surface: #ffffff;
+  --color-primary: #1e1e1e;
+  --color-secondary: #8b7355;
+  --color-muted: #d9d7d2;
+  --color-text-primary: #1e1e1e;
+  --color-text-secondary: #707070;
+
+  --font-display: "Metrophobic", sans-serif;
+  --font-body: "Source Serif 4", serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--color-background);
+  color: var(--color-text-primary);
+  font-family: var(--font-body);
+  overflow-x: hidden;
+}

@@ -1,8 +1,8 @@
-import Container from "../../ui/Container";
-import Heading from "../../ui/Heading";
-import Section from "../../ui/Section";
-import Text from "../../ui/Text";
-import Button from "../../ui/Button";
+import Container from "../../../../components/ui/Container";
+import Heading from "../../../../components/ui/Heading";
+import Section from "../../../../components/ui/Section";
+import Text from "../../../../components/ui/Text";
+import Button from "../../../../components/ui/Button";
 
 const services = [
   "Diseño arquitectónico",

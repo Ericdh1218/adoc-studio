@@ -1,8 +1,8 @@
-import Container from "../../ui/Container";
-import Section from "../../ui/Section";
+import Container from "../../../../components/ui/Container";
+import Section from "../../../../components/ui/Section";
 import HeroContent from "./HeroContent";
 import HeroImage from "./HeroImage";
-import { ScaleIn } from "../../animations";
+import { ScaleIn } from "../../../../components/animations";
 
 function Hero() {
   return (

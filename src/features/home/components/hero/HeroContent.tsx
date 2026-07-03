@@ -1,7 +1,7 @@
-import Button from "../../ui/Button";
-import Heading from "../../ui/Heading";
-import Text from "../../ui/Text";
-import { FadeIn } from "../../animations";
+import Button from "../../../../components/ui/Button";
+import Heading from "../../../../components/ui/Heading";
+import Text from "../../../../components/ui/Text";
+import { FadeIn } from "../../../../components/animations";
 
 function HeroContent() {
   return (

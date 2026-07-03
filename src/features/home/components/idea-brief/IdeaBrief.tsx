@@ -1,11 +1,11 @@
-import Button from "../../ui/Button";
-import Container from "../../ui/Container";
-import Heading from "../../ui/Heading";
-import Section from "../../ui/Section";
-import Text from "../../ui/Text";
-import Input from "../../ui/Input";
-import Textarea from "../../ui/Textarea";
-import Select from "../../ui/Select";
+import Button from "../../../../components/ui/Button";
+import Container from "../../../../components/ui/Container";
+import Heading from "../../../../components/ui/Heading";
+import Section from "../../../../components/ui/Section";
+import Text from "../../../../components/ui/Text";
+import Input from "../../../../components/ui/Input";
+import Textarea from "../../../../components/ui/Textarea";
+import Select from "../../../../components/ui/Select";
 
 function IdeaBrief() {
   return (

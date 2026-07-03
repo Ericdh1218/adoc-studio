@@ -1,4 +1,4 @@
-import { Reveal } from "../../animations";
+import { Reveal } from "../../../../components/animations";
 type ProjectCardProps = {
   code: string;
   title: string;
